@@ -11,6 +11,9 @@ The files themselves are of blank freshly-formatted disks, so there (should be)
 no copyrightable data in them. If you find there is, please file a bug so I can
 remove it ASAP.
 
+The `bad` directory contains additional images which contain bad sectors, which
+are useful for robustness purposes.
+
 David Given
 dg@cowlark.com
 
